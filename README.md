@@ -1,1 +1,1 @@
-# clincic-system
+# clinic-system
